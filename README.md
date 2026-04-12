@@ -1,2 +1,2 @@
-# apra-rag-poc
-A POC Rag for APRA integration
+rag-poc
+A POC Rag
