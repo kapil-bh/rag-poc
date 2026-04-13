@@ -1,11 +1,14 @@
+protobuf==3.20.3
 streamlit
 langchain
 langchain-community
-langchain-text_splitters
+langchain-text-splitters
 langchain-chroma
 langchain-huggingface
+langchain-groq
 pypdf
 sentence-transformers
 chromadb
 torch
 torchvision
+python-dotenv
