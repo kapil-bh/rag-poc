@@ -1,4 +1,11 @@
+```text
+streamlit
 langchain
 langchain-community
 langchain-text-splitters
-langchain-chroma  # Newer version of the Chroma integration
+langchain-chroma
+langchain-huggingface
+pypdf
+sentence-transformers
+chromadb
+pysqlite3-binary
